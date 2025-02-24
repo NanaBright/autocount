@@ -1,0 +1,1 @@
+AutoCount is a Python project that will use image recognition to count objects in a picture. This tool is aimed at simplifying the process of item detection and counting through automated image analysis.
